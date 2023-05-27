@@ -1,0 +1,71 @@
+h2 a {
+    color: rgb(230, 23, 57);
+    font-family: 'Crimson Text', serif;
+}
+
+
+.page_header{
+    background-color: rgb(21, 248, 123);
+    margin-top: 0px;
+    margin-bottom: 50px;
+    padding: 20px 20px 20px 40px;
+
+}
+
+h1 a {
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.date{
+    color: rgb(225, 135, 25);
+}
+
+.post-form textarea,
+.post-form input{
+    width:100%;
+}
+
+.top-menu,
+.top-menu:hover,
+.top-menu:visited{
+    color: aliceblue;
+    float:right;
+    margin-right:30px;
+}
+
+.post{
+    margin-bottom: 70px;
+}
+
+.post h2 a,
+.post h2 a:visited{
+    color: rgb(20, 15, 7);
+}
+
+
+.post > .date,
+.post > .actions{
+    float: right;
+}
+
+.brn-secondary,
+.btn-secondary:visited{
+    color: rgb(205, 18, 18);
+    background-color: none;
+    border-color: rgb(200, 26, 26);
+}
+
+.btn-secondary:hover{
+    color: aliceblue;
+    background-color: #C25100;
+}
+.mydata{
+    text-align: center;
+    background-color: rgb(255, 0, 68);
+}
+
+
